@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+#task-list, #mood-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#task-list li, #mood-list li {
+    margin: 5px 0;
+}
+
+form {
+    margin-bottom: 10px;
+}
+
+input, select, button {
+    margin-right: 10px;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+#points {
+    font-weight: bold;
+}
